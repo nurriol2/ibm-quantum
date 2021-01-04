@@ -1,0 +1,2 @@
+* how to load data into a notebook *
+--> https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/load-and-access-data.html
